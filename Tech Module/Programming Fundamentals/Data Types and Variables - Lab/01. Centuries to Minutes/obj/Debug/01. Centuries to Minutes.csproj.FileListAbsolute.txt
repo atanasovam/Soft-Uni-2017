@@ -1,2 +1,0 @@
-c:\users\atama\onedrive\documents\visual studio 2015\Projects\Data Types and Variables - Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
-C:\Users\atama\Desktop\Visual Studio 2015\Data Types and Variables - Lab\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
