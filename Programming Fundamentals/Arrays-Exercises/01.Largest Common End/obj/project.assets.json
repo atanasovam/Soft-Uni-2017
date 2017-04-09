@@ -7080,9 +7080,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\01.Largest Common End\\01.Largest Common End.csproj",
-      "projectName": "01.Largest Common End",
-      "projectPath": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\01.Largest Common End\\01.Largest Common End.csproj",
+      "projectUniqueName": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\01.Largest Common End\\01. Largest Common End.csproj",
+      "projectName": "01. Largest Common End",
+      "projectPath": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\01.Largest Common End\\01. Largest Common End.csproj",
       "outputPath": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\01.Largest Common End\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
