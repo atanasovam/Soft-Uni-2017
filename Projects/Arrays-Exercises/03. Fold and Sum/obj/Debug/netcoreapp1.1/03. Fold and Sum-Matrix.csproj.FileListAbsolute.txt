@@ -1,0 +1,8 @@
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.deps.json
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.runtimeconfig.json
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.runtimeconfig.dev.json
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.dll
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.pdb
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.AssemblyInfo.cs
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.dll
+C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum-Matrix.pdb
