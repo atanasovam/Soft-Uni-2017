@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atama\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\Arrays-Exercises\\02. Rotate and Sum\\02. Rotate and Sum.csproj",
+      "projectUniqueName": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\02. Rotate and Sum\\02. Rotate and Sum.csproj",
       "projectName": "02. Rotate and Sum",
-      "projectPath": "C:\\Users\\atama\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\Arrays-Exercises\\02. Rotate and Sum\\02. Rotate and Sum.csproj",
-      "outputPath": "C:\\Users\\atama\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\Arrays-Exercises\\02. Rotate and Sum\\obj\\",
+      "projectPath": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\02. Rotate and Sum\\02. Rotate and Sum.csproj",
+      "outputPath": "C:\\Users\\atama\\Desktop\\Soft Uni- Fundamentals 2017\\Programming Fundamentals\\Arrays-Exercises\\02. Rotate and Sum\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
