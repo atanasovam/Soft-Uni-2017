@@ -1,0 +1,6 @@
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Arrays Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Arrays Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Arrays Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Arrays Exercises\11. Equal Sums\obj\Debug\11. Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Arrays Exercises\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Arrays Exercises\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb
