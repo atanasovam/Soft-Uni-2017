@@ -1,9 +1,0 @@
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.deps.json
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.runtimeconfig.json
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.runtimeconfig.dev.json
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.dll
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.pdb
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.AssemblyInfo.cs
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.dll
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.pdb

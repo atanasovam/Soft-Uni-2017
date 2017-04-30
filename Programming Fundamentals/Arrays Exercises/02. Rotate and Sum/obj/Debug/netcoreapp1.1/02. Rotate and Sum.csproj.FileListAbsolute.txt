@@ -1,9 +1,0 @@
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\bin\Debug\netcoreapp1.1\02. Rotate and Sum.deps.json
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\bin\Debug\netcoreapp1.1\02. Rotate and Sum.runtimeconfig.json
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\bin\Debug\netcoreapp1.1\02. Rotate and Sum.runtimeconfig.dev.json
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\bin\Debug\netcoreapp1.1\02. Rotate and Sum.dll
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\bin\Debug\netcoreapp1.1\02. Rotate and Sum.pdb
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\obj\Debug\netcoreapp1.1\02. Rotate and Sum.csprojResolveAssemblyReference.cache
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\obj\Debug\netcoreapp1.1\02. Rotate and Sum.AssemblyInfo.cs
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\obj\Debug\netcoreapp1.1\02. Rotate and Sum.dll
-C:\Users\atama\OneDrive\Documents\Visual Studio 2017\Projects\Arrays-Exercises\ConsoleApp1\obj\Debug\netcoreapp1.1\02. Rotate and Sum.pdb
