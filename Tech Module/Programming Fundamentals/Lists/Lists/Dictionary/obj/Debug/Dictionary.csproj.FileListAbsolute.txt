@@ -1,0 +1,6 @@
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Lists\Lists\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Lists\Lists\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Lists\Lists\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Lists\Lists\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Lists\Lists\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\atama\Desktop\Soft Uni- Fundamentals 2017\Programming Fundamentals\Lists\Lists\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
