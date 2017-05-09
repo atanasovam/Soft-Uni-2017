@@ -1,6 +1,4 @@
-/**
- * Created by atama on 7.5.2017 г..
- */
+/** Created by atama on 7.5.2017 г.. */
 
 function typeOfNum(input) {
     let num = Number(input[0]);
