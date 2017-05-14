@@ -8,15 +8,15 @@ function isPrime(number) {
     let n = Math.sqrt(num);
     let isPrime = true;
 
-    for (i = 2; i < n; i++) {
+    for (i = 2; i <= n; i++) {
         if (num % i === 0) {
             isPrime = false;
             break;
         }
     }
-    if (n <= 1) {
+    if (n === 0 || n === 1) {
         return console.log("false");
     }
-    return isPrime === true ? console.log("true") : console.log("false");
+    return isPrime;
 }
 isPrime(["-5"]);

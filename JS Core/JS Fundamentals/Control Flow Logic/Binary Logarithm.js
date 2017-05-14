@@ -3,8 +3,6 @@
  */
 
 function binaryLogarithm(nums) {
-    nums = nums.map(Number);
-
     for (let x of nums) {
         if (x !== 0) {
             console.log(Math.log2(x));
