@@ -3,8 +3,8 @@
  */
 function printTriangle(input) {
     let n = Number(input[0]);
-    for (i = 1; i <= n; i++) {
-        console.log('$'.repeat(i));
+    for (row = 0; row <= n; row++) {
+        console.log('$'.repeat(row));
     }
 }
-printTriangle([3]);
+printTriangle([5]);

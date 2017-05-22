@@ -6,12 +6,12 @@ function colorfulNums(input) {
     let n = input[0];
 
     console.log("<ul>\n");
-    for (i = 1; i <= num; i++) {
+    for (row = 1; row <= num; row++) {
         let color = 'green';
-        if (i % 2 === 0) {
+        if (row % 2 === 0) {
             color = 'blue';
         }
-        console.log(`<li><span style='color:${color}'>${i}</span></li>\n`);
+        console.log(`<li><span style='color:${color}'>${row}</span></li>\n`);
     }
     console.log("</ul>");
 }

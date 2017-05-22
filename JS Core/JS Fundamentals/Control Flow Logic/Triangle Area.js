@@ -3,9 +3,9 @@
  */
 
 function calcAreaTr([a, b, c]) {
-    [a, b, c] = [a, b, c].map(Number);
-    let s = (a + b + c) / 2;
-    let area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
+    [a, b, col] = [a, b, col].map(Number);
+    let s = (a + b + col) / 2;
+    let area = Math.sqrt(s * (s - a) * (s - b) * (s - col));
 
     return area;
 }

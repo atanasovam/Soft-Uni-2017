@@ -6,9 +6,9 @@ function ageFilter(input) {
     let currentName = "";
     let currentAge = null;
 
-    for (i = 1; i < input.length - 1; i += 2) {
-        currentName = input[i];
-        currentAge = Number(input[i + 1]);
+    for (row = 1; row < input.length - 1; row += 2) {
+        currentName = input[row];
+        currentAge = Number(input[row + 1]);
 
         if (currentAge >= min) {
             console.log("{ name: '" + currentName + "', age: " + currentAge + " }");

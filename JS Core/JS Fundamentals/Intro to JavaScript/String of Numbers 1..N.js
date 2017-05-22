@@ -5,8 +5,8 @@
 function stringOfNums([n]) {
     let result = '';
 
-    for (i = 1; i <= n; i++) {
-        result += i;
+    for (row = 1; row <= n; row++) {
+        result += row;
     }
     console.log(result);
 }

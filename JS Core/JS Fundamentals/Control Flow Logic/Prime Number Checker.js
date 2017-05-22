@@ -8,8 +8,8 @@ function isPrime(number) {
     let n = Math.sqrt(num);
     let isPrime = true;
 
-    for (i = 2; i <= n; i++) {
-        if (num % i === 0) {
+    for (row = 2; row <= n; row++) {
+        if (num % row === 0) {
             isPrime = false;
             break;
         }

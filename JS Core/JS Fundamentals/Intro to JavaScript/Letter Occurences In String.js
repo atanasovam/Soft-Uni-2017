@@ -6,8 +6,8 @@ function sumCurrency(input) {
     let letter = input[1];
     let count = 0;
 
-    for (let i = 0; i < word.length; i++) {
-        if (word[i] === letter) {
+    for (let i = 0; row < word.length; row++) {
+        if (word[row] === letter) {
             count++;
         }
     }

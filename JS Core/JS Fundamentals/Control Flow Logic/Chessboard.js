@@ -6,9 +6,9 @@ function font(input) {
     let n = input[0];
 
     console.log("<div class=\"chessboard\">");
-    for (i = 1; i <= num; i++) {
+    for (row = 1; row <= num; row++) {
         console.log("<div>");
-        choosenColors(i, num);
+        choosenColors(row, num);
         console.log("</div>");
     }
     console.log("</div>");
@@ -17,7 +17,7 @@ function font(input) {
         let colorF = "";
         let colorS = "";
 
-        if (i % 2 !== 0) {
+        if (row % 2 !== 0) {
             colorF = "black";
             colorS = "white";
         }
@@ -26,8 +26,8 @@ function font(input) {
             colorS = "black";
         }
 
-        for (i = 0; i < num; i++) {
-            i % 2 === 0 ? console.log(`<span class=\"` + colorF + `"></span>`) : console.log(`<span class=\"` + colorS + `"></span>`);
+        for (row = 0; row < num; row++) {
+            row % 2 === 0 ? console.log(`<span class=\"` + colorF + `"></span>`) : console.log(`<span class=\"` + colorS + `"></span>`);
         }
     }
 }
