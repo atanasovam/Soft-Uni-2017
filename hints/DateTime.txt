@@ -1,0 +1,24 @@
+Вкарване на дата от конзолата.
+
+var startTime = DateTime.ParseExact(
+               Console.ReadLine(),
+               "HH:mm:ss",
+               CultureInfo.InvariantCulture);
+
+
+
+
+
+Изкарване на Часове:минути:секунди от секунди.
+
+var seconds = totalSeconds % 60;
+var totalMinutes = totalSeconds / 60;
+var minutes = totalMinutes % 60;
+var totalHours = totalMinutes / 60;
+var hours = totalHours % 24;
+
+
+
+Намиране на дните от даден месец и година.
+
+var daysInMonth = DateTime.DaysInMonth(orderDate.Year, orderDate.Month);
