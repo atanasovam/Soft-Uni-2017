@@ -1,3 +1,0 @@
-Сплитване по определени символи и след това премахване на празните пространства.
-
-var participants = Console.ReadLine().Split(new[] { ','},StringSplitOptions.None).Select(x => x.Trim()).ToList();

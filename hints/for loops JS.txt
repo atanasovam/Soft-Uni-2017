@@ -1,2 +1,0 @@
-for... in ->> return key
-for... of ->> return value
