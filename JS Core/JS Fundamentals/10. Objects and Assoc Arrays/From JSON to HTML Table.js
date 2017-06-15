@@ -6,7 +6,6 @@ function jsonToHtml(input) {
 
     for (let key of Object.keys(arr[0])) {
         html += `<th>${key}</th>`;
-
     }
     html += "</tr>\n";
 

@@ -3,9 +3,9 @@
  */
 function findVarName(str) {
     let result = [];
-    let regex = /(?:\s_)([A-Za-z0-9]+)(?:\s|$)/g;
+    let regex = /\b_([a-zA-Z0-9]+)\b/g;
     let match = regex.exec(str);
-    while (match !== null && match !== undefined) {
+    while (match) {
         result.push(match[1]);
         match = regex.exec(str);
     }
