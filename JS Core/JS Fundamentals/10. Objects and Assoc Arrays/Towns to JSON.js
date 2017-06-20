@@ -1,6 +1,3 @@
-/**
- * Created by atama on 12.6.2017 г..
- */
 function parseTowns(input) {
     input.shift();
     let towns =[];

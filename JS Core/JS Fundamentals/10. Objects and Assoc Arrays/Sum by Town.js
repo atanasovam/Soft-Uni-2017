@@ -1,6 +1,3 @@
-/**
- * Created by atama on 12.6.2017 г..
- */
 function sumByTowns(input) {
     let result = {};
     for (let i = 0; i < input.length; i += 2) {

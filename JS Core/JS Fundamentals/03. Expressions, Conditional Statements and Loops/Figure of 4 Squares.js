@@ -1,8 +1,5 @@
-/**
- * Created by atama on 21.5.2017 г..
- */
 function print(num) {
-    n = Number(num);
+    let n = Number(num);
 
     let horizontal = n * 2 - 1;
     let vertical = (n % 2 === 0) ? n - 1 : n;
@@ -14,8 +11,8 @@ function print(num) {
         }
     }
     else {
-        for (row = 1; row <= vertical; row++) {
-            for (col = 1; col <= horizontal; col++) {
+        for (let row = 1; row <= vertical; row++) {
+            for (let col = 1; col <= horizontal; col++) {
                 if (row === 1 || row === Math.ceil(vertical / 2) || row === vertical) {
                     output += (col === 1 || col === n || col === horizontal) ? "+" : "-";
                 }

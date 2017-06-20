@@ -1,6 +1,3 @@
-/**
- * Created by atama on 11.6.2017 г..
- */
 function equalStart(str, substr) {
     return str.indexOf(substr) === 0 ? 'true' : 'false';
 }

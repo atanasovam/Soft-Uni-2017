@@ -1,6 +1,3 @@
-/**
- * Created by atama on 1.6.2017 г..
- */
 function dnaHelix(num) {
     let letterCount = 0;
     let rowCount = 0;
@@ -17,8 +14,10 @@ function dnaHelix(num) {
     for (let i = 0; i < num; i++) {
         first = symbols[letterCount];
         letterCount = updateLetterCount(letterCount);
+
         second = symbols[letterCount];
         letterCount = updateLetterCount(letterCount);
+
         if (rowCount === 0) {
             console.log(`**${first}${second}**`)
         } else if (rowCount === 1) {

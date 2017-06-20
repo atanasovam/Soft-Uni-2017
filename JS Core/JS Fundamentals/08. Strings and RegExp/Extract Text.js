@@ -1,6 +1,3 @@
-/**
- * Created by atama on 8.6.2017 г..
- */
 function extractText(str) {
     let open = str.indexOf('(');
     let result = [];

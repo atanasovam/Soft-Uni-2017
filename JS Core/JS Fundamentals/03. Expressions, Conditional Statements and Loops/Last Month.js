@@ -1,8 +1,6 @@
-/**
- * Created by atama on 14.5.2017 г..
- */
 function lastMonth([day, month, year]) {
     let date = new Date();
+
     date.setYear(year);
     date.setMonth(month - 1);
     date.setDate(day);
@@ -11,6 +9,6 @@ function lastMonth([day, month, year]) {
     let currentDate = new Date(date.setDate(1));
 
     currentDate = new Date(currentDate.getTime() - oneDay);
-    console.log(currentDate.getDate());
+    return currentDate.getDate()
 }
-lastMonth(['17', '3', '2002']);
+console.log(lastMonth(['17', '3', '2002']));

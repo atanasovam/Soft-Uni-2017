@@ -1,9 +1,7 @@
-/**
- * Created by atama on 7.6.2017 г..
- */
 function countOccurrences(str, text) {
     let count = 0;
     let index = text.indexOf(str);
+
     while (index > -1) {
         index++;
         count++;

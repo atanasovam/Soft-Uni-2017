@@ -1,6 +1,3 @@
-/**
- * Created by atama on 9.6.2017 г..
- */
 function escape(input) {
     let str = '<ul>\n';
 

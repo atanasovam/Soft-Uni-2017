@@ -1,6 +1,3 @@
-/**
- * Created by atama on 14.6.2017 г..
- */
 function sumPopulation(arr) {
     let pplInfo = new Map();
 

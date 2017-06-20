@@ -1,10 +1,6 @@
-/**
- * Created by atama on 18.5.2017 г..
- */
 function printTable(num) {
-    n = Number(num);
-    let table = "";
-    table += '<table border="1">\n';
+    let n = Number(num);
+    let table = '<table border="1">\n';
     table += '\t<tr><th>x</th>';
 
     for (let i = 1; i <= n; i++) {
@@ -25,6 +21,6 @@ function printTable(num) {
 
     table += '</table>\n';
 
-    console.log(table);
+    return table
 }
-printTable([5]);
+console.log(printTable([5]));

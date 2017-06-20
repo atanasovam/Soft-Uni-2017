@@ -1,6 +1,3 @@
-/**
- * Created by atama on 12.6.2017 г..
- */
 function scoreIntoHtml(input) {
     let html = '<table>\n';
     html += '   <tr><th>name</th><th>score</th></tr>\n';

@@ -1,6 +1,3 @@
-/**
- * Created by atama on 25.5.2017 г..
- */
 function validity([x1, y1, x2, y2]) {
     let pointA = {x: x1, y: y1},
         pointB = {x: x2, y: y2};
@@ -20,7 +17,3 @@ function validity([x1, y1, x2, y2]) {
 validity([3, 0, 0, 4]);
 console.log();
 validity([2, 1, 1, 1]);
-
-// `{${x1}}, ${y1}} to {0, 0} is `;
-// `{${x2}}, ${y2}} to {0, 0} is `;
-// `{${x1}}, ${y1}} to {${x2}}, ${y2}} is `;

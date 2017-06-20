@@ -1,6 +1,3 @@
-/**
- * Created by atama on 14.5.2017 г..
- */
 function rounding([n, precision]) {
     let num = Number(n);
 

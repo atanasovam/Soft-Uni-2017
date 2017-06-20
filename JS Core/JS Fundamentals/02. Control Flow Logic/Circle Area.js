@@ -1,7 +1,3 @@
-/**
- * Created by atama on 7.5.2017 г..
- */
-
 function calcAreaCr([r]) {
     let area = Math.PI * r * r;
     console.log(area);

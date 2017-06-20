@@ -1,6 +1,3 @@
-/**
- * Created by atama on 22.5.2017 г..
- */
 function printTriangle(n) {
     for (let i = 1; i <= Number(n); i++) {
         console.log('*'.repeat(i));

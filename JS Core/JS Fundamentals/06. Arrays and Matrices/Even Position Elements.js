@@ -1,6 +1,3 @@
-/**
- * Created by atama on 1.6.2017 г..
- */
 function isEvenPosition(input) {
     return input.filter((x, i) => i % 2 === 0).join(' ');
 }

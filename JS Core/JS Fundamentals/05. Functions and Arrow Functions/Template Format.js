@@ -1,6 +1,3 @@
-/**
- * Created by atama on 24.5.2017 г..
- */
 function printXML(input) {
     console.log("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<quiz>");
 

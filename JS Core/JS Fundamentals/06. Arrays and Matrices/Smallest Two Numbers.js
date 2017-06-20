@@ -1,6 +1,3 @@
-/**
- * Created by atama on 1.6.2017 г..
- */
 function smallstTwo(input) {
     input.sort((a, b) => a - b);
     let arr = input.slice(0, 2);

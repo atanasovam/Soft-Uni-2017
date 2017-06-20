@@ -1,9 +1,5 @@
-/**
- * Created by atama on 24.5.2017 г..
- */
 function cookingByNums(input) {
-    let n = Number(input[0]);
-    let currComand = input[1];
+    let [n, currComand] = input.map(Number);
     let currResult = 0;
 
     for (let i = 1; i < input.length; i++) {
@@ -15,28 +11,15 @@ function cookingByNums(input) {
     }
 
     function calcCurrNum(comand, n) {
-        let result = 0;
-
         switch (comand) {
-            case "chop":
-                result = n / 2;
-                break;
-            case "dice":
-                result = Math.sqrt(n);
-                break;
-            case "spice":
-                result = n + 1;
-                break;
-            case "bake":
-                result = n * 3;
-                break;
-            case "fillet":
-                result = n - n * 0.2;
-                break;
+            case "chop": return n / 2;
+            case "dice": return Math.sqrt(n);
+            case "spice": return n + 1;
+            case "bake": return n * 3;
+            case "fillet": return n - n * 0.2;
             default:
                 break;
         }
-        return result;
     }
 }
 

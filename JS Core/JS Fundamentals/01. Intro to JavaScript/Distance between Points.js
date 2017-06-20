@@ -1,7 +1,3 @@
-/**
- * Created by atama on 9.5.2017 г..
- */
-
 function distanceBetweenPoints([x1, y1, x2, y2]) {
     let pointA = {x: x1, y: y1};
     let pointB = {x: x2, y: y2};

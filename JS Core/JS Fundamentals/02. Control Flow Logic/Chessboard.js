@@ -1,23 +1,19 @@
-/**
- * Created by atama on 8.5.2017 г..
- */
-
 function font(input) {
-    let n = input[0];
+    let num = input[0];
 
     console.log("<div class=\"chessboard\">");
-    for (row = 1; row <= num; row++) {
+    for (let i = 1; i <= num; i++) {
         console.log("<div>");
-        choosenColors(row, num);
+        choosenColors(i, num);
         console.log("</div>");
     }
     console.log("</div>");
 
-    function choosenColors(i, n) {
+    function choosenColors(i, num) {
         let colorF = "";
         let colorS = "";
 
-        if (row % 2 !== 0) {
+        if (i % 2 !== 0) {
             colorF = "black";
             colorS = "white";
         }
@@ -26,8 +22,8 @@ function font(input) {
             colorS = "black";
         }
 
-        for (row = 0; row < num; row++) {
-            row % 2 === 0 ? console.log(`<span class=\"` + colorF + `"></span>`) : console.log(`<span class=\"` + colorS + `"></span>`);
+        for (i = 0; i < num; i++) {
+            i % 2 === 0 ? console.log(`<span class=\"` + colorF + `"></span>`) : console.log(`<span class=\"` + colorS + `"></span>`);
         }
     }
 }

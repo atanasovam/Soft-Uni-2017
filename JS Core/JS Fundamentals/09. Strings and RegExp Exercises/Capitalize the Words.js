@@ -1,6 +1,3 @@
-/**
- * Created by atama on 11.6.2017 г..
- */
 function capitalize(str) {
     let arr = Array.from(str.split(' ')).map(e => e.toLowerCase());
     let result = [];

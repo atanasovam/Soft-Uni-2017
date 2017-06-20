@@ -1,6 +1,3 @@
-/**
- * Created by atama on 2.6.2017 г..
- */
 function diagonalSums(input) {
     let rightSum = 0;
     let leftSum = 0;

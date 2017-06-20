@@ -1,6 +1,3 @@
-/**
- * Created by atama on 24.5.2017 г..
- */
 function roadRadar(input) {
     let speed = Number(input[0]);
     let area = input[1];
@@ -49,10 +46,18 @@ function roadRadar(input) {
     }
 
     function chooseOutput(diff, output) {
-        if (diff === 0) { output = '' }
-        else if (diff <= 20) { output = "speeding" }
-        else if (diff <= 40) { output = "excessive speeding" }
-        else if (diff > 40) { output = "reckless driving" }
+        if (diff === 0) {
+            output = ''
+        }
+        else if (diff <= 20) {
+            output = "speeding"
+        }
+        else if (diff <= 40) {
+            output = "excessive speeding"
+        }
+        else if (diff > 40) {
+            output = "reckless driving"
+        }
 
         return output;
     }

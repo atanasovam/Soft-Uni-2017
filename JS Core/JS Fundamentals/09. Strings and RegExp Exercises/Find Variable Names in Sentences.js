@@ -1,6 +1,3 @@
-/**
- * Created by atama on 11.6.2017 г..
- */
 function findVarName(str) {
     let result = [];
     let regex = /\b_([a-zA-Z0-9]+)\b/g;

@@ -1,6 +1,3 @@
-/**
- * Created by atama on 9.6.2017 г..
- */
 function fillForm(username, email, phone, data) {
     data.forEach(line => {
         line = line.replace(/<![a-zA-Z]+!>/g, username);

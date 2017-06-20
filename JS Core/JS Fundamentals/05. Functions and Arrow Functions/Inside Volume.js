@@ -1,6 +1,3 @@
-/**
- * Created by atama on 23.5.2017 г..
- */
 function isInside(input) {
     let x1 = 10, x2 = 50;
     let y1 = 20, y2 = 80;

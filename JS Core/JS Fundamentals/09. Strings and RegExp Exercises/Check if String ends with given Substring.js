@@ -1,6 +1,3 @@
-/**
- * Created by atama on 11.6.2017 г..
- */
 function equalFinish(str, substr) {
     return str.endsWith(substr);
 }

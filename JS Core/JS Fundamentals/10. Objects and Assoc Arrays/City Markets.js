@@ -1,6 +1,3 @@
-/**
- * Created by atama on 14.6.2017 г..
- */
 function cityMarkets(arr) {
     let towns = new Map();
 

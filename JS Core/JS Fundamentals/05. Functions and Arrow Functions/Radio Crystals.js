@@ -1,6 +1,3 @@
-/**
- * Created by atama on 30.5.2017 г..
- */
 function transformCrystals(input) {
     let aim = input[0];
 

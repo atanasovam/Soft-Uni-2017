@@ -1,6 +1,3 @@
-/**
- * Created by atama on 9.6.2017 г..
- */
 function censored(text, patterns) {
     for (let patt of patterns) {
         let toReplace = '-'.repeat(patt.length);

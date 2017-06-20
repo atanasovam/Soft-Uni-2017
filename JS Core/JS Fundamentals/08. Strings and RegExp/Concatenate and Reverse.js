@@ -1,6 +1,3 @@
-/**
- * Created by atama on 7.6.2017 г..
- */
 function reverseStr(input) {
     let tempArr = input.join('');
     return Array.from(tempArr).reverse().join('')

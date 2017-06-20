@@ -1,7 +1,3 @@
-/**
- * Created by atama on 9.5.2017 г..
- */
-
 function sumAndVAT(input) {
     let sum = 0;
 

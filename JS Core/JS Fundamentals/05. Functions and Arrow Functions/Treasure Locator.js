@@ -1,6 +1,3 @@
-/**
- * Created by atama on 26.5.2017 г..
- */
 function locator(input) {
     let x = 0;
     let y = 0;

@@ -1,6 +1,3 @@
-/**
- * Created by atama on 4.6.2017 г..
- */
 function filterSubsequence(input) {
     input = input.map(Number);
     let biggest;

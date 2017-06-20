@@ -1,7 +1,3 @@
-/**
- * Created by atama on 10.5.2017 г..
- */
-
 function distance([v1, v2, t]) {
     [v1, v2, t] = [v1, v2, t].map(Number);
 

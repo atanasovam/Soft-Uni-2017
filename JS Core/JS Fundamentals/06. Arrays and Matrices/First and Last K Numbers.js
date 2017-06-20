@@ -1,14 +1,10 @@
-/**
- * Created by atama on 1.6.2017 г..
- */
 function kNumbers(input) {
     let k = input[0];
     let output = [[], []];
 
     if (input.length === 2) {
         return `${input[1]}\n${input[1]}`;
-    }
-    else {
+    } else {
         for (let i = 1; i <= k; i++) {
             output[0].push(input[i]);
         }

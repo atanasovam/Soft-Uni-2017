@@ -1,6 +1,3 @@
-/**
- * Created by atama on 23.5.2017 г..
- */
 function aggregateElements(input) {
     let concat = '';
     let currNum = 0;

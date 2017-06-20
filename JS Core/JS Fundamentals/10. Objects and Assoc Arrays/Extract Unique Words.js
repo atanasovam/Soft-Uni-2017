@@ -1,6 +1,3 @@
-/**
- * Created by atama on 14.6.2017 г..
- */
 function extractUniqueWords(strArr) {
     let result = new Set();
     for (let line of strArr) {

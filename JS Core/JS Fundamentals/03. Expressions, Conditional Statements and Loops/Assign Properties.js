@@ -1,13 +1,5 @@
-/**
- * Created by atama on 14.5.2017 г..
- */
 function properties(input) {
-    let nameK = input[0];
-    let nameV = input[1];
-    let ageK = input[2];
-    let ageV = input[3];
-    let genderK = input[4];
-    let genderV = input[5];
+    let [nameK, nameV, ageK, ageV, genderK, genderV] = input.map(e => e);
 
     let result = {[nameK]: nameV, [ageK]: ageV, [genderK]: genderV};
     console.log(result);

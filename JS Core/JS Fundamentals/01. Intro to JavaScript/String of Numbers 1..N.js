@@ -1,12 +1,8 @@
-/**
- * Created by atama on 9.5.2017 г..
- */
-
 function stringOfNums([n]) {
     let result = '';
 
-    for (row = 1; row <= n; row++) {
-        result += row;
+    for (let i = 1; i <= n; i++) {
+        result += i;
     }
     console.log(result);
 }

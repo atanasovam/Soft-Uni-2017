@@ -1,6 +1,3 @@
-/**
- * Created by atama on 29.5.2017 г..
- */
 function tripLength([x1, y1, x2, y2, x3, y3]) {
     let points = [
         {x: x1, y: y1},

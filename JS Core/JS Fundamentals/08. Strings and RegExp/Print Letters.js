@@ -1,6 +1,3 @@
-/**
- * Created by atama on 7.6.2017 г..
- */
 function printLett(str) {
     let output = [];
     for (let i in str) {

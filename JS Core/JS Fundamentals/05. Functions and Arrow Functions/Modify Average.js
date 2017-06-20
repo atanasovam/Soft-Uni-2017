@@ -1,9 +1,8 @@
-/**
- * Created by atama on 25.5.2017 г..
- */
 function modifyAverage(n) {
     n = n.toString();
+
     while (sumNumbers(n) / n.length <= 5) { n += '9' }
+    return n;
 
     function sumNumbers(n) {
         let sum = 0;
@@ -12,8 +11,6 @@ function modifyAverage(n) {
         }
         return sum;
     }
-
-    console.log(n);
 }
-modifyAverage(['101']);
-modifyAverage(['5835']);
+console.log(modifyAverage(['101']));
+console.log(modifyAverage(['5835']));

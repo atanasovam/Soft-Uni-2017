@@ -1,6 +1,3 @@
-/**
- * Created by atama on 9.6.2017 г..
- */
 function matchDate(input) {
     let patt = /\b([0-9]{1,2})-([A-Z][a-z]{2})-([0-9]{4})\b/g;
     let dates = [], match;

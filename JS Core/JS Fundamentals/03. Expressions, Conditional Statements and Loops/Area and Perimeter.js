@@ -1,5 +1,3 @@
-/** Created by atama on 10.5.2017 г.. */
-
 function calcAreaPerim([a, b]) {
     [a, b] = [a, b].map(Number);
 

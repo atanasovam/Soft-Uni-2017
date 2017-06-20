@@ -1,8 +1,5 @@
-/**
- * Created by atama on 12.5.2017 г..
- */
-// Pythagoras theorem
-// First variant
+/**Pythagoras theorem
+ *First variant*/
 function distance3D([x1, y1, z1, x2, y2, z2]) {
     [x1, y1, z1, x2, y2, z2] =
         [x1, y1, z1, x2, y2, z2].map(Number);
@@ -12,7 +9,7 @@ function distance3D([x1, y1, z1, x2, y2, z2]) {
     console.log(distance);
 }
 
-// Second variant
+/** Second variant*/
 function distanceBetween3dPoints(input) {
     let pointA = {x: Number(input[0]), y: Number(input[1]), z: Number(input[2])};
     let pointB = {x: Number(input[3]), y: Number(input[4]), z: Number(input[5])};

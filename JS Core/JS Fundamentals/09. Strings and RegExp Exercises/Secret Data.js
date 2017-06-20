@@ -1,6 +1,3 @@
-/**
- * Created by atama on 12.6.2017 г..
- */
 function censure(input) {
     let text = input.join('\n');
     let nameOfClientsPatt = /(\*[A-Z][A-Za-z]*)(?=\s|$|.)/g;

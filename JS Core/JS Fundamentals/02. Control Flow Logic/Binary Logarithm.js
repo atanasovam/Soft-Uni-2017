@@ -1,7 +1,3 @@
-/**
- * Created by atama on 9.5.2017 г..
- */
-
 function binaryLogarithm(nums) {
     for (let x of nums) {
         if (x !== 0) {

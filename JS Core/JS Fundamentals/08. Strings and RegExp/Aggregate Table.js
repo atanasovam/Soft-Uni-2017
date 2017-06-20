@@ -1,10 +1,5 @@
-/**
- * Created by atama on 9.6.2017 г..
- */
 function aggregate(input) {
-    let arr = [];
-    let temp = [];
-    let tempCity = [];
+    let arr = [], temp = [], tempCity = [];
     let tempN = 0;
 
     for (let i = 0; i < input.length; i++) {
@@ -13,8 +8,9 @@ function aggregate(input) {
     }
     for (let i = 0; i < temp.length; i += 2) {
         tempCity.push(temp[i]);
-        tempN += Number(temp    [i + 1]);
+        tempN += Number(temp[i + 1]);
     }
+
     console.log(tempCity.join(', '));
     console.log(tempN)
 }

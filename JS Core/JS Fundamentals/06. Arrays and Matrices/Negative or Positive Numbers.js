@@ -1,6 +1,3 @@
-/**
- * Created by atama on 1.6.2017 г..
- */
 function numbers(input) {
     let numbers = [[], []];
 

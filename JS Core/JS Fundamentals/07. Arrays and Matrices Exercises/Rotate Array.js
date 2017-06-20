@@ -1,6 +1,3 @@
-/**
- * Created by atama on 3.6.2017 г..
- */
 function rotate(input) {
     let r = Number(input[input.length - 1]);
     input.pop();

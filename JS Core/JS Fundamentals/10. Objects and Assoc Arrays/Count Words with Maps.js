@@ -1,6 +1,3 @@
-/**
- * Created by atama on 13.6.2017 г..
- */
 function countWordsMaps(strArr) {
     let output = new Map();
 

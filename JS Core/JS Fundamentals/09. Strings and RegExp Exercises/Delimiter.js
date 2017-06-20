@@ -1,6 +1,3 @@
-/**
- * Created by atama on 11.6.2017 г..
- */
 function splitByDel(str, del) {
     return str.split(del).join('\n')
 }
