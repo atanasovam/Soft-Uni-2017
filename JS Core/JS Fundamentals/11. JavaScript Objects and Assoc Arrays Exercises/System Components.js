@@ -8,11 +8,11 @@ function performComponents(input) {
             performedComponents.set(systemName, new Map());
             performedComponents.get(systemName).set(componentName, []);
             performedComponents.get(systemName).get(componentName).push(subcomponentName);
-        } // if systemName doesn't exist -> set [systemName, componentName, subcomponentName] step by step
+        } // if systemName doesn't exist -> set [systemName, componentName, subcomponentName]
         else if (!performedComponents.get(systemName).has(componentName)) {
             performedComponents.get(systemName).set(componentName, []);
             performedComponents.get(systemName).get(componentName).push(subcomponentName);
-        }  // if systemName exist but componentName doesn't -> set [componentName, subcomponentName] again step by step
+        }  // if systemName exist but componentName doesn't -> set [componentName, subcomponentName]
         else {
             performedComponents.get(systemName).get(componentName).push(subcomponentName);
         } // if systemName and componentName exists -> push only subcomponentName

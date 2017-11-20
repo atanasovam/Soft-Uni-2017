@@ -16,9 +16,7 @@ function sumBottles(input) {
         }
     }
 
-    for (let [key, value] of bottles) {
-        console.log(`${key} => ${value}`)
-    }
+    bottles.forEach((v,k) => console.log(`${k} => ${v}`));
 }
 sumBottles([
     'Orange => 2000',
